@@ -15,7 +15,7 @@ h1{
     display: flex;
     position: absolute;
     font-size: 5vw;
-    top: -200px;
+    top: -20vh;
     text-align: center;
 }
 .keyType{
